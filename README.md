@@ -1,5 +1,4 @@
 # AnalysisOfPolymerizationModels
-# AnalysisOfPolymerizationModels
 
 Federico Paoletti - 15/6/2018
 
